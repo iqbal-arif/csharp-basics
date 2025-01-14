@@ -18,7 +18,7 @@ namespace Ex7_ControlFlow
 
             int userInput = Int32.Parse(Console.ReadLine());
 
-            int initialNum = userInput;
+            
             int userSum = 1;
 
             for (int i = userInput; i >= 1 ; i--)
