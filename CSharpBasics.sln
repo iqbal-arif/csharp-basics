@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5-ControlFlow", "Ex5-Cont
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex6-ControlFlow", "Ex6-ControlFlow\Ex6-ControlFlow.csproj", "{B34D692D-1DF6-458B-A6A5-E8E143DE288F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex7-ControlFlow", "Ex7-ControlFlow\Ex7-ControlFlow.csproj", "{BAC1602F-2A7E-422F-8F06-527E62D8FC8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B34D692D-1DF6-458B-A6A5-E8E143DE288F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B34D692D-1DF6-458B-A6A5-E8E143DE288F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B34D692D-1DF6-458B-A6A5-E8E143DE288F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC1602F-2A7E-422F-8F06-527E62D8FC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC1602F-2A7E-422F-8F06-527E62D8FC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC1602F-2A7E-422F-8F06-527E62D8FC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC1602F-2A7E-422F-8F06-527E62D8FC8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
