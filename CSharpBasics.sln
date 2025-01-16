@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2-Array_List", "Ex2-Array
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3-Array_List", "Ex3-Array_List\Ex3-Array_List.csproj", "{3892DD12-6DED-4B00-B8E6-6D42A3D0C69B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4-Array_List", "Ex4-Array_List\Ex4-Array_List.csproj", "{FFC6D30B-4FD5-4A1E-AE5F-FB0A470BCDBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3892DD12-6DED-4B00-B8E6-6D42A3D0C69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3892DD12-6DED-4B00-B8E6-6D42A3D0C69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3892DD12-6DED-4B00-B8E6-6D42A3D0C69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC6D30B-4FD5-4A1E-AE5F-FB0A470BCDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC6D30B-4FD5-4A1E-AE5F-FB0A470BCDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC6D30B-4FD5-4A1E-AE5F-FB0A470BCDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC6D30B-4FD5-4A1E-AE5F-FB0A470BCDBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
