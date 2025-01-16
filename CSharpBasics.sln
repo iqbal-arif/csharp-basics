@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex9-ControlFlow", "Ex9-Cont
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1-Array_List", "Ex1-Array_List\Ex1-Array_List.csproj", "{D6FBB9C3-9D48-4F9D-9905-FC931E1A8F3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2-Array_List", "Ex2-Array_List\Ex2-Array_List.csproj", "{F32362DB-1127-4915-9A93-A3CD351DBE36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{D6FBB9C3-9D48-4F9D-9905-FC931E1A8F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6FBB9C3-9D48-4F9D-9905-FC931E1A8F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6FBB9C3-9D48-4F9D-9905-FC931E1A8F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32362DB-1127-4915-9A93-A3CD351DBE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32362DB-1127-4915-9A93-A3CD351DBE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32362DB-1127-4915-9A93-A3CD351DBE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32362DB-1127-4915-9A93-A3CD351DBE36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
