@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3-Array_List", "Ex3-Array
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4-Array_List", "Ex4-Array_List\Ex4-Array_List.csproj", "{FFC6D30B-4FD5-4A1E-AE5F-FB0A470BCDBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5-Array_List", "Ex5-Array_List\Ex5-Array_List.csproj", "{58A1DBED-6F72-4116-AEDC-4E3BB42F8EEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{FFC6D30B-4FD5-4A1E-AE5F-FB0A470BCDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFC6D30B-4FD5-4A1E-AE5F-FB0A470BCDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFC6D30B-4FD5-4A1E-AE5F-FB0A470BCDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A1DBED-6F72-4116-AEDC-4E3BB42F8EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A1DBED-6F72-4116-AEDC-4E3BB42F8EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A1DBED-6F72-4116-AEDC-4E3BB42F8EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A1DBED-6F72-4116-AEDC-4E3BB42F8EEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
