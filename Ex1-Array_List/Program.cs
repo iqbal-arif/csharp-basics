@@ -31,7 +31,7 @@ namespace Ex1_Array_List
 
                 var userName = Console.ReadLine();
 
-                Console.WriteLine("Do you like my 'Facebook Post', Enter 'true' for Like 'false' for Dislike\n");
+                Console.WriteLine("Do you like my 'Facebook Post', Enter '1' for Like '0' for Dislike\n");
 
                 string userLikeness = Console.ReadLine();
 
