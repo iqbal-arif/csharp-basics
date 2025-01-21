@@ -14,21 +14,33 @@ namespace Ex1_WorkingwithText
 
             Console.WriteLine("Enter numbers separated by a hyphen.\n");
 
-            List<string> list = new List<string>();
+            List<int> list = new List<int>();
 
+            string userString = Console.ReadLine();
+            string[] str = userString.Split("-");
 
-            string userInput = Console.ReadLine();
-
-            if (string.IsNullOrWhiteSpace(userInput))
+            foreach (string item in str)
             {
-                userInput.Split("-");
+                list.Add(int.Parse(item));
+
+            }
+            //list.Sort();
+
+            for (int i = 0; i < list.Count; i++)
+            {
+                if (list[i + 1] - list[i] == 1)
+                {
+                    Console.WriteLine("\nConsecutive Number !");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("\nNot a Consecutive Number !");
+                    break;
+                }
             }
 
-            
-
-            Console.WriteLine(userInput);
-
-
         }
+        
     }
 }
