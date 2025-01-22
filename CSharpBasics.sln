@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2-WorkingwithText", "Ex2-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3-WorkingwithText", "Ex3-WorkingwithText\Ex3-WorkingwithText.csproj", "{144DD265-3BD8-4AB2-9B83-878952DF793C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4-WorkingwithText", "Ex4-WorkingwithText\Ex4-WorkingwithText.csproj", "{54CF53BB-108D-47DD-8CBA-B6D90CBAD488}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{144DD265-3BD8-4AB2-9B83-878952DF793C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{144DD265-3BD8-4AB2-9B83-878952DF793C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{144DD265-3BD8-4AB2-9B83-878952DF793C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CF53BB-108D-47DD-8CBA-B6D90CBAD488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CF53BB-108D-47DD-8CBA-B6D90CBAD488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CF53BB-108D-47DD-8CBA-B6D90CBAD488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CF53BB-108D-47DD-8CBA-B6D90CBAD488}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
