@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5-WorkingwithText", "Ex5-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1-WorkingwithFiles", "Ex1-WorkingwithFiles\Ex1-WorkingwithFiles.csproj", "{89631A73-ED00-45C4-BDEA-A128DE9CB26D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2-WorkingwithFiles", "Ex2-WorkingwithFiles\Ex2-WorkingwithFiles.csproj", "{02B8B2E0-6DFD-4B96-803A-19F4D1CDABA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{89631A73-ED00-45C4-BDEA-A128DE9CB26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89631A73-ED00-45C4-BDEA-A128DE9CB26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89631A73-ED00-45C4-BDEA-A128DE9CB26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B8B2E0-6DFD-4B96-803A-19F4D1CDABA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B8B2E0-6DFD-4B96-803A-19F4D1CDABA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B8B2E0-6DFD-4B96-803A-19F4D1CDABA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B8B2E0-6DFD-4B96-803A-19F4D1CDABA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,3 +1,4 @@
-The is C# files.
+The is C# file.
+
 This is one of the last excercises.
 Please read the file and display number of words in the file.
